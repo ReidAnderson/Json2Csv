@@ -1,0 +1,20 @@
+{
+    "someProperty": {
+        "someList": [
+            {
+                "dataPoint1": {
+                    "subPoint": "some data"
+                },
+                "dataPoint2": "something",
+                "dataPoint3": 122.57
+            },
+            {
+                "dataPoint1": {
+                    "subPoint": "more data"
+                },
+                "dataPoint2": "other something",
+                "dataPoint3": 2.57
+            }
+        ]
+    }
+}
